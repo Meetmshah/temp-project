@@ -18,6 +18,6 @@ for i in range(len(A)):
 	A[i], A[min_idx] = A[min_idx], A[i] 
 
 # Driver code to test above 
-print ("Sorted array") 
-for i in range(len(A)): 
-	print("%d" %A[i]), 
+print ("Sorted array is:") 
+for element in arr: 
+	print (element), 
