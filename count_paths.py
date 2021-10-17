@@ -25,3 +25,5 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+# We can update input and output method.
