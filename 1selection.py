@@ -21,3 +21,5 @@ for i in range(len(A)):
 print ("Sorted array is:") 
 for element in arr: 
 	print (element), 
+
+#We can update the way how the result it being disaplyed.
